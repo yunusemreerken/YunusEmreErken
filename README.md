@@ -1,7 +1,6 @@
 # Yunus Emre Erken
 
 IT Support Specialist | System Administration | Networking  
-Based in Batman, Turkey
 
 ---
 
