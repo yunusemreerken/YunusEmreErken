@@ -51,6 +51,5 @@ I learn by doing — home lab, real problems, real fixes.
 
 ## Contact
 
-- Email: yunus.erken.56@gmail.com
 - LinkedIn: [yunus-emre-erken](https://www.linkedin.com/in/yunus-emre-erken/)
-- Portfolio: [yunuserken.carrd.co](https://yunuserken.carrd.co/)
+- Youtube: [yunus-emre-erken](https://www.youtube.com/@yunus-emre-erken)
