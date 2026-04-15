@@ -98,7 +98,7 @@ Multi-disciplinary tech community with backend, frontend, DevOps, and entreprene
 ## 📬 Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yunus-emre-erken/)
-[![Medium](https://img.shields.io/badge/Medium-000000?style=flat&logo=medium&logoColor=white)](https://medium.com/@yunus.erken)
+[![Medium](https://img.shields.io/badge/Medium-000000?style=flat&logo=medium&logoColor=white)](https://medium.com/@yunus_emre_erken)
 [![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/yunus_erken_56)
 [![Portfolio](https://img.shields.io/badge/Portfolio-0a0e17?style=flat&logo=github&logoColor=white)](https://yunusemreerken.github.io)
 
