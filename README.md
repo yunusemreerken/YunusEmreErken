@@ -23,7 +23,6 @@ Currently building real-world DevOps skills through hands-on lab work and active
 | DevOps infrastructure from scratch | OpenTeamManager — Bilgisayar Kavramları Community | 🔄 In Progress |
 | Home IT Lab (AD, PowerShell, DNS/DHCP) | VMware / VirtualBox | 🔄 Ongoing |
 | CompTIA A+ Core 2 (220-1202) | LinkedIn Learning | 📖 70% |
-| n8n workflow automation | Community project | 🔄 Exploring |
 
 
 ---
