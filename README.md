@@ -1,106 +1,44 @@
-# Hi, I'm Yunus Emre Erken 👋
+# Yunus Emre Erken
 
-**IT Support & System Administrator → Transitioning to DevOps**
+**IT Support Specialist in Progress**
 
-I keep systems running, users unblocked, and infrastructure moving forward.
-Currently building real-world DevOps skills through hands-on lab work and active community collaboration — not just tutorials.
-
----
-
-## 🔧 What I Do
-
-- **IT Support & Sysadmin** — 3+ years supporting 50+ end-users in Windows environments
-- **Active Directory & PowerShell** — user/group management, GPO, automation scripts
-- **Home Lab** — Windows Server, VMware, DNS/DHCP, Linux kernel-level troubleshooting
-- **DevOps (in progress)** — Docker, CI/CD, IaC, n8n automation via real project work
+An IT enthusiast focused on helpdesk, system administration, and networking fundamentals — learning by building in a home lab.
 
 ---
 
-## 🚀 Currently
+## Skills
 
-| What | Where | Status |
-|------|--------|--------|
-| DevOps infrastructure from scratch | OpenTeamManager — Bilgisayar Kavramları Community | 🔄 In Progress |
-| Home IT Lab (AD, PowerShell, DNS/DHCP) | VMware / VirtualBox | 🔄 Ongoing |
-| CompTIA A+ Core 2 (220-1202) | LinkedIn Learning | 📖 70% |
+**OS** &nbsp; ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
 
+**Network** &nbsp; ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white) ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white) ![TCP/IP](https://img.shields.io/badge/TCP%2FIP·DNS·DHCP-555?style=flat-square)
 
----
-
-## 🛠️ Tech Stack
-
-**IT Support & Systems**
-`Windows 10/11` `Windows Server` `Active Directory` `PowerShell` `DISM`
-`VMware` `VirtualBox` `Linux (Ubuntu)` `GRUB` `Kernel Management`
-
-**Networking**
-`TCP/IP` `DNS` `DHCP` `LAN` `RJ45 Cabling` `Patch Panel`
-
-**DevOps (Learning)**
-`Docker` `Git` `Linux Server` `n8n` `IaC Concepts` `CI/CD`
-
-**Development**
-`ASP.NET Core` `REST APIs` `SQL` `PHP` `Laravel` `MySQL`
+**Tools** &nbsp; ![Active Directory](https://img.shields.io/badge/Active%20Directory-003087?style=flat-square&logo=microsoft&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white) ![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=flat-square&logo=virtualbox&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
 
-## 🏗️ Projects
+## Home Lab
 
-### 🖥️ Home IT Lab *(Ongoing)*
-Personal lab simulating real-world sysadmin scenarios:
-- Deployed Windows Server in VMware
-- Configured Active Directory — users, groups, OUs via PowerShell
-- Set up DNS, DHCP, client-server environments
-- Used DISM & PowerShell to troubleshoot Windows 11 compatibility issues
-
-### 🖥️ Technical Content Creator – IT Education  *(Ongoing)*
-
-Personal Lab & Instructional Media
-- Explain & Demonstrate: Develop instructional videos covering Windows Server deployment and Active Directory architecture.
-- Technical Documentation: Create step-by-step guides on managing DNS/DHCP and organizing Users/Groups/OUs using PowerShell.
-- Problem-Solving Scenarios: Record live troubleshooting sessions using DISM and PowerShell to resolve real-world Windows 11 compatibility  issues.
-- Knowledge Sharing: Simplify complex sysadmin concepts for an audience, demonstrating strong communication and technical writing skills.
-
-### 🐧 Linux Kernel Recovery *(Completed)*
-> Real incident — not a tutorial.
-
-Ubuntu crashed after a failed GUI installation (black screen). Booted into backup kernel via GRUB, executed full backup & recovery procedure using Makefile and build tools. Restored corrupted kernel modules with **zero data loss**.
-
-### ⚙️ OpenTeamManager — DevOps Infrastructure *(In Progress)*
-Building DevOps infrastructure from scratch for a real backend + frontend development team at Bilgisayar Kavramları community:
-- Containerization with Docker
-- CI/CD pipeline setup
-- n8n workflow automation for community notifications
-- Working under DevOps lead mentorship
+| Project | Description | Status |
+|---|---|---|
+| Windows Server 2025 | AD DS, DNS, DHCP on VirtualBox | 🔄 In Progress |
+| Network Simulation | Packet Tracer — VLANs & Routing | 🔄 In Progress |
+| Ubuntu Server | SSH, user management, cron jobs | ✅ Done |
+| Security Basics | Firewall rules, basic hardening | 📅 Planned |
 
 ---
 
-## 🤝 Community
+## Target Certifications
 
-**Bilgisayar Kavramları — DevOps Team** *(April 2026 – Present)*
-
-Multi-disciplinary tech community with backend, frontend, DevOps, and entrepreneurship teams.
-- Weekly structured DevOps sessions (2 days/week · 2 hrs/session)
-- Contributing to real infrastructure projects
-- Participating in tech networking and entrepreneurship events
+![A+](https://img.shields.io/badge/CompTIA%20A+-C8202F?style=flat-square) ![Network+](https://img.shields.io/badge/CompTIA%20Network+-C8202F?style=flat-square) ![Security+](https://img.shields.io/badge/CompTIA%20Security+-C8202F?style=flat-square) ![AZ-900](https://img.shields.io/badge/AZ--900-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 
 ---
 
-## 📜 Certifications
+## GitHub Stats
 
-- CompTIA A+ Core 2 (220-1202) — In Progress (70%) — LinkedIn Learning
-- IBM AI4Future Event — Kodluyoruz, 2026,March(70%)
-- IBM CyberStart 2.0 Event - Kodluyoruz, 2026,April
+![Stats](https://github-readme-stats.vercel.app/api?username=yunusemreerken&show_icons=true&theme=default&hide_border=true)
 
 ---
 
-## 📬 Contact
+*"The best way to learn IT is to break it in a lab, not in production."*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yunus-emre-erken/)
-[![Medium](https://img.shields.io/badge/Medium-000000?style=flat&logo=medium&logoColor=white)](https://medium.com/@yunus_emre_erken)
-[![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/yunus_erken_56)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0a0e17?style=flat&logo=github&logoColor=white)](https://yunusemreerken.github.io)
-
----
-
-*Open to IT Support, System Administration & Junior DevOps opportunities.*
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/yunus-emre-erken) [![Medium](https://img.shields.io/badge/Medium-000000?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@yunus.erken)
