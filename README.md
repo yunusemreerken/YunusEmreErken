@@ -20,7 +20,7 @@ An IT enthusiast focused on helpdesk, system administration, and networking fund
 
 | Project | Description | Status |
 |---|---|---|
-| Windows Server 2025 | AD DS, DNS, DHCP on ASUS (Bare Metal) | ✅ Done |
+| Windows Server 2025 | AD DS, DNS, DHCP, GPO,OU on ASUS (Bare Metal) | ✅ Done |
 | Network Simulation | Packet Tracer — VLANs & Routing | 🔄 In Progress |
 | Ubuntu Server | SSH, user management, cron jobs | 🔄 In Progress |
 | Security Basics | Firewall rules, basic hardening | 📅 Planned |
