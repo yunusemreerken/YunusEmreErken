@@ -12,7 +12,7 @@ An IT enthusiast focused on helpdesk, system administration, and networking fund
 
 **Network** &nbsp; ![TCP/IP](https://img.shields.io/badge/TCP%2FIP-005C99?style=flat&logoColor=white) ![SSH](https://img.shields.io/badge/SSH-4D4D4D?style=flat&logo=openssh&logoColor=white) ![RustDesk](https://img.shields.io/badge/RustDesk-0D8B8B?style=flat&logoColor=white) ![PuTTY](https://img.shields.io/badge/PuTTY-007ACC?style=flat&logoColor=white)
 
-**Tools** &nbsp; ![Active Directory](https://img.shields.io/badge/Active%20Directory-0078D6?style=flat&logo=microsoft&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white) ![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=flat&logo=virtualbox&logoColor=white) ![UTM](https://img.shields.io/badge/UTM-000000?style=flat&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+**Tools** &nbsp; ![Active Directory](https://img.shields.io/badge/Active%20Directory-0078D6?style=flat&logo=microsoft&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white) ![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=flat&logo=virtualbox&logoColor=white) ![UTM](https://img.shields.io/badge/UTM-000000?style=flat&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
 
 **AI/ML/DL** &nbsp; ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=flat&logoColor=black) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 
@@ -26,6 +26,8 @@ An IT enthusiast focused on helpdesk, system administration, and networking fund
 | Network Simulation | Packet Tracer — VLANs & Routing | 🔄 In Progress |
 | Ubuntu Server | SSH, user management, cron jobs | 🔄 In Progress |
 | Security Basics | Firewall rules, basic hardening | 📅 Planned |
+| LocalStack + Terraform | AWS S3, IAM simülasyonu — local enviroment | ✅ Done |
+
 
 ---
 
