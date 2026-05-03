@@ -39,8 +39,7 @@ An IT enthusiast focused on helpdesk, system administration, and networking fund
 
 ## GitHub Stats
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=yunusemreerken&show_icons=true&theme=default&hide_border=true)](https://streak-stats.demolab.com?user=yunusemreerken&theme=default&hide_border=true)
----
+[![GitHub Streak](https://streak-stats.demolab.com?user=yunusemreerken&theme=default&hide_border=true)](https://git.io/streak-stats)
 
 *"The best way to learn IT is to break it in a lab, not in production."*
 
