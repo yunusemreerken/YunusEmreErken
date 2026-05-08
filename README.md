@@ -44,3 +44,5 @@ An IT enthusiast focused on helpdesk, system administration, and networking fund
 *"The best way to learn IT is to break it in a lab, not in production."*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/yunus-emre-erken) [![Medium](https://img.shields.io/badge/Medium-000000?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@yunus.erken)
+
+I'm really excited for June 11, 2026!
