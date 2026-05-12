@@ -33,7 +33,7 @@ An IT enthusiast focused on helpdesk, system administration, and networking fund
 
 ## Target Certifications
 
-![A+](https://img.shields.io/badge/CompTIA%20A+-C8202F?style=flat-square) ![Network+](https://img.shields.io/badge/CompTIA%20Network+-C8202F?style=flat-square) ![Security+](https://img.shields.io/badge/CompTIA%20Security+-C8202F?style=flat-square) ![AZ-900](https://img.shields.io/badge/AZ--900-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![A+](https://img.shields.io/badge/CompTIA%20A+-C8202F?style=flat-square) ![Network+](https://img.shields.io/badge/CompTIA%20Network+-C8202F?style=flat-square) ![Security+](https://img.shields.io/badge/CompTIA%20Security+-C8202F?style=flat-square)
 
 ---
 
@@ -44,5 +44,3 @@ An IT enthusiast focused on helpdesk, system administration, and networking fund
 *"The best way to learn IT is to break it in a lab, not in production."*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/yunus-emre-erken) [![Medium](https://img.shields.io/badge/Medium-000000?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@yunus.erken)
-
-I'm really excited for June 11, 2026!
