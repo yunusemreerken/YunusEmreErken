@@ -3,7 +3,7 @@
 **Junior DevOps & MLOps Engineer** — deploying ML systems, building cloud infrastructure, closing the gap between notebook and production.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yunus-emre-erken)
-[![Medium](https://img.shields.io/badge/Medium-000000?style=flat&logo=medium&logoColor=white)](https://medium.com/@yunus.erken)
+[![Medium](https://img.shields.io/badge/Medium-000000?style=flat&logo=medium&logoColor=white)](https://medium.com/@yunus_emre_erken)
 [![Portfolio](https://img.shields.io/badge/Portfolio-00e5a0?style=flat&logoColor=black)](https://yunusemreerken.github.io)
 
 ---
