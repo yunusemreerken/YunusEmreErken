@@ -1,6 +1,6 @@
 # Yunus Emre Erken
 
-**Junior DevOps & MLOps Engineer** — deploying ML systems, building cloud infrastructure, closing the gap between notebook and production.
+**DevOps & MLOps Engineer** — deploying ML systems, building cloud infrastructure, closing the gap between notebook and production.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yunus-emre-erken)
 [![Medium](https://img.shields.io/badge/Medium-000000?style=flat&logo=medium&logoColor=white)](https://medium.com/@yunus_emre_erken)
