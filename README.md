@@ -51,7 +51,7 @@ Notebook  →  Docker  →  Cloud  →  CI/CD  →  Production
 
 | # | Project | What I Solved | Stack |
 |---|---------|---------------|-------|
-| 🔥 | Freelancerbot (Proposal) | Docker, Ollama, n8n |
+| 🔥 | [Freelancerbot (Proposal)](https://github.com/yunusemreerken/freelancer-bot) | Docker, Ollama, n8n, Open WebUI |
 | 💻 | [Real-Time Object Detection](https://github.com/yunusemreerken/real-time-object-detection-yolov8) | Ran production ML inference on a **1 GB / $0/month** Oracle Cloud instance via swap tuning + Docker | YOLOv8, Docker, Oracle Cloud, Streamlit |
 | ⚙️ | IaC — Terraform + LocalStack | Provisioned S3 buckets & least-privilege IAM locally, simulating AWS without cloud spend | Terraform, LocalStack, AWS |
 | 🖥️ | Windows Server 2025 Lab | Full AD DS, DNS, DHCP, GPO, OU on bare metal ASUS. PowerShell-automated user provisioning | Windows Server, AD, PowerShell |
