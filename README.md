@@ -54,7 +54,7 @@ Notebook  →  Docker  →  Cloud  →  CI/CD  →  Production
 | 🔥 | [Freelancerbot (Proposal)](https://github.com/yunusemreerken/freelancer-bot) | Local AI assistant for freelancers. Writes proposals, estimates prices, drafts client replies, and flags project risks — all running on your own machine. | Docker, Ollama, n8n, Open WebUI |
 | 💻 | [Real-Time Object Detection](https://github.com/yunusemreerken/real-time-object-detection-yolov8) | Ran production ML inference on a **1 GB / $0/month** Oracle Cloud instance via swap tuning + Docker | YOLOv8, Docker, Oracle Cloud, Streamlit |
 | ⚙️ | IaC — Terraform + LocalStack | Provisioned S3 buckets & least-privilege IAM locally, simulating AWS without cloud spend | Terraform, LocalStack, AWS |
-| 🖥️ | Windows Server 2025 Lab | Full AD DS, DNS, DHCP, GPO, OU on bare metal ASUS. PowerShell-automated user provisioning | Windows Server, AD, PowerShell |
+| 🖥️ | [Windows Server 2025 Lab](https://github.com/yunusemreerken/it-support-learning-journey) | Full AD DS, DNS, DHCP, GPO, OU on bare metal ASUS. PowerShell-automated user provisioning | Windows Server, AD, PowerShell |
 | 🐧 | Linux Kernel Recovery | Recovered a crashed Ubuntu system via GRUB backup kernel + Makefile rebuild. Zero data loss | Ubuntu, GRUB, Bash |
 
 ---
