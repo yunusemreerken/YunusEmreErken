@@ -53,8 +53,8 @@ Notebook  →  Docker  →  Cloud  →  CI/CD  →  Production
 |---|---------|---------------|-------|
 | 🔥 | [Freelancerbot (Proposal)](https://github.com/yunusemreerken/freelancer-bot) | Local AI assistant for freelancers. Writes proposals, estimates prices, drafts client replies, and flags project risks — all running on your own machine. | Docker, Ollama, n8n, Open WebUI |
 | 💻 | [Real-Time Object Detection](https://github.com/yunusemreerken/real-time-object-detection-yolov8) | Ran production ML inference on a **1 GB / $0/month** Oracle Cloud instance via swap tuning + Docker | YOLOv8, Docker, Oracle Cloud, Streamlit |
-| 🦾 | [Oracle Ampere Hunter](https://github.com/yunusemreerken/oci-ampere-hunter-workflow) | OCI Ampere Hunter — GitHub Actions Workflow|
-| 🦾 | [Hp Printer Real TroubleShooting](https://github.com/yunusemreerken/hp-1018-printer-setup)) | HP LaserJet 1018 — Linux Mint Install HandBook  - TroubleShooting Method|
+| 🦾 | [Oracle Ampere Hunter](https://github.com/yunusemreerken/oci-ampere-hunter-workflow) | OCI Ampere Hunter — GitHub Actions Workflow| Workflow, Github actions, Oracle Cloud| 
+| 🦾 | [Hp Printer Real TroubleShooting](https://github.com/yunusemreerken/hp-1018-printer-setup)s | HP LaserJet 1018 — Linux Mint Install HandBook  - TroubleShooting Method|Linux Mint, Printer, foo2js, Bash Script |
 | ⚙️ | [IaC — Terraform + LocalStack](https://github.com/yunusemreerken/devops-journey/tree/main/aws-practice) | Provisioned S3 buckets & least-privilege IAM locally, simulating AWS without cloud spend | Terraform, LocalStack, AWS |
 | 🖥️ | [Windows Server 2025 Lab](https://github.com/yunusemreerken/it-support-learning-journey) | Full AD DS, DNS, DHCP, GPO, OU on bare metal ASUS. PowerShell-automated user provisioning | Windows Server, AD, PowerShell |
 | 🐧 | [Linux Kernel Recovery](https://medium.com/@yunus_emre_erken/linux-kernel-recovery-why-doesnt-the-system-die-when-the-gui-crashes-0a3e6b35e86c) | Recovered a crashed Ubuntu system via GRUB backup kernel + Makefile rebuild. Zero data loss | Ubuntu, GRUB, Bash |
