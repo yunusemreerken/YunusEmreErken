@@ -71,7 +71,7 @@ Notebook  →  Docker  →  Cloud  →  CI/CD  →  Production
 
 ## Certifications
 
-[![AWS SAA-C03](https://shields.io)](https://aws.amazon.com/certification/certified-solutions-architect-associate/) **In Progress**
+[[AWS SAA-C03](https://shields.io)](https://aws.amazon.com/certification/certified-solutions-architect-associate/) **In Progress**
 &nbsp;
 ![IBM AI4Future](https://img.shields.io/badge/IBM_AI4Future-054ADA?style=flat-square) 2026
 &nbsp;
