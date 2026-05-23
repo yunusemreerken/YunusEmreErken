@@ -71,11 +71,14 @@ Notebook  →  Docker  →  Cloud  →  CI/CD  →  Production
 
 ## Certifications
 
-[![AWS SAA-C03](https://shields.io)](https://aws.amazon.com/certification/certified-solutions-architect-associate/)
+
+![CompTIA A+](https://img.shields.io/badge/CompTIA_A+_Core_2-C8202F?style=flat-square)  - Core 2 Training Completed (2026)
 &nbsp;
-![IBM AI4Future](https://img.shields.io/badge/IBM_AI4Future-054ADA?style=flat-square) 2026
+![AWS SAA-C03](https://img.shields.io/badge/AWS_SAA--C03-FF9900?style=flat-square) - In Progress (2026)
 &nbsp;
-![IBM CyberStart](https://img.shields.io/badge/IBM_CyberStart_2.0-054ADA?style=flat-square) 2026
+![IBM AI4Future](https://img.shields.io/badge/IBM_AI4Future-054ADA?style=flat-square) - (2026)
+&nbsp;
+![IBM CyberStart](https://img.shields.io/badge/IBM_CyberStart_2.0-054ADA?style=flat-square) - (2026)
 
 ---
 
