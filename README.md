@@ -72,7 +72,7 @@ Notebook  →  Docker  →  Cloud  →  CI/CD  →  Production
 ## Certifications
 
 
-![CompTIA A+](https://img.shields.io/badge/CompTIA_A+_Core_2-C8202F?style=flat-square)  - Core 2 Training Completed (2026)
+![CompTIA A+](https://img.shields.io/badge/CompTIA_A+-C8202F?style=flat-square)  - Core 2 Training Completed (2026)
 &nbsp;
 ![AWS SAA-C03](https://img.shields.io/badge/AWS_SAA--C03-FF9900?style=flat-square) - In Progress (2026)
 &nbsp;
