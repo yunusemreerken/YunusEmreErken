@@ -51,6 +51,8 @@ Notebook  →  Docker  →  Cloud  →  CI/CD  →  Production
 
 | # | Project | What I Solved | Stack |
 |---|---------|---------------|-------|
+| 🔥 | [Simple-Agent (Proposal)](https://github.com/yunusemreerken/simple-agent) |  ||
+
 | 🔥 | [Freelancerbot (Proposal)](https://github.com/yunusemreerken/freelancer-bot) | Local AI assistant for freelancers. Writes proposals, estimates prices, drafts client replies, and flags project risks — all running on your own machine. | Docker, Ollama, n8n, Open WebUI |
 | 💻 | [Real-Time Object Detection](https://github.com/yunusemreerken/real-time-object-detection-yolov8) | Ran production ML inference on a **1 GB / $0/month** Oracle Cloud instance via swap tuning + Docker | YOLOv8, Docker, Oracle Cloud, Streamlit |
 | 🦾 | [Oracle Ampere Hunter](https://github.com/yunusemreerken/oci-ampere-hunter-workflow) | OCI Ampere Hunter — GitHub Actions Workflow| Workflow, Github actions, Oracle Cloud| 
